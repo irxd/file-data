@@ -1,2 +1,7 @@
-# file-data
-FreeCodeCamp Challenge: File Metadata Microservice
+Usage
+------------
+Upload file from input form
+
+Output
+------------
+Size of the file in byte
